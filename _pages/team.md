@@ -76,7 +76,7 @@ undergrad_gallery:
     name: "Ellie Alberti"
     title: "Mechanical Engineering"
   - url: https://www.centrecountypaws.org
-    image_path: /assets/animals/cat-5.jpg
+    image_path: /assets/animals/cat-5.png
     name: "Em Evans"
     title: "Undeclared"
   - url: https://www.centrecountypaws.org
@@ -92,7 +92,7 @@ undergrad_gallery:
     name: "Megan Costantino"
     title: "Undeclared"
   - url: https://www.centrecountypaws.org
-    image_path: /assets/animals/cat-7.jpg
+    image_path: /assets/animals/cat-7.png
     name: "Matt Li"
     title: "Undeclared"
   - url: https://www.centrecountypaws.org
