@@ -21,102 +21,102 @@ director_gallery:
     title: "Director"
 
 grad_gallery:
-  - url: /team/
+  - url: https://www.centrecountypaws.org
     image_path: /assets/headshots/puentes.jpg
     name: "Lucas Puentes"
     title: "ME PhD Student"  
-  - url: /team/
+  - url: https://www.centrecountypaws.org
     image_path: /assets/headshots/mahan.jpg
     name: "Tobias Mahan"
     title: "ME PhD Student"
-  - url: /team/
-    image_path: /assets/headshots/person.png
+  - url: https://www.centrecountypaws.org
+    image_path: /assets/animals/cat-1.jpg
     name: "Torsten Maier"
     title: "IE PhD Student"
-  - url: /team/
+  - url: https://www.centrecountypaws.org
     image_path: /assets/headshots/alzayed.jpg
     name: "Mohammad AlZayed"
     title: "IE PhD Student"
-  - url: /team/
-    image_path: /assets/headshots/person.png
+  - url: https://www.centrecountypaws.org
+    image_path: /assets/animals/dog-1.jpg
     name: "Glen Williams"
     title: "ME PhD Student"
-  - url: /team/
-    image_path: /assets/headshots/person.png
+  - url: https://www.centrecountypaws.org
+    image_path: /assets/animals/cat-2.jpg
     name: "Pratima Saravanan"
     title: "IE PhD Student"
-  - url: /team/
+  - url: https://www.centrecountypaws.org
     image_path: /assets/headshots/lapp.jpg
     name: "Samuel Lapp"
     title: "MS Student"
-  - url: /team/
+  - url: https://www.centrecountypaws.org
     image_path: /assets/headshots/nelson.jpg
     name: "Jacob Nelson"
     title: "MS Student"
 
 undergrad_gallery:
-  - url: /team/
-    image_path: /assets/headshots/person.png
+  - url: https://www.centrecountypaws.org
+    image_path: /assets/animals/dog-2.jpg
     name: "Alena Schwarz"
     title: "Undeclared"    
-  - url: /team/
-    image_path: /assets/headshots/person.png
+  - url: https://www.centrecountypaws.org
+    image_path: /assets/animals/cat-3.jpg
     name: "Andrew Berlin"
     title: "Mechanical Engineering"   
-  - url: /team/
-    image_path: /assets/headshots/person.png
+  - url: https://www.centrecountypaws.org
+    image_path: /assets/animals/dog-3.jpg
     name: "Chloe Pehanick"
     title: "Undeclared"    
-  - url: /team/
-    image_path: /assets/headshots/person.png
+  - url: https://www.centrecountypaws.org
+    image_path: /assets/animals/cat-4.jpg
     name: "Christian Murphy"
     title: "Mechanical Engineering"
-  - url: /team/
-    image_path: /assets/headshots/person.png
+  - url: https://www.centrecountypaws.org
+    image_path: /assets/animals/dog-4.jpg
     name: "Ellie Alberti"
     title: "Mechanical Engineering"
-  - url: /team/
-    image_path: /assets/headshots/person.png
+  - url: https://www.centrecountypaws.org
+    image_path: /assets/animals/cat-5.jpg
     name: "Em Evans"
     title: "Undeclared"
-  - url: /team/
-    image_path: /assets/headshots/person.png
+  - url: https://www.centrecountypaws.org
+    image_path: /assets/animals/dog-5.jpg
     name: "Emma Hocker"
     title: "Engineering Science"
-  - url: /team/
-    image_path: /assets/headshots/person.png
+  - url: https://www.centrecountypaws.org
+    image_path: /assets/animals/cat-6.jpg
     name: "Gia Borgese"
     title: "Undeclared"
-  - url: /team/
-    image_path: /assets/headshots/person.png
+  - url: https://www.centrecountypaws.org
+    image_path: /assets/animals/dog-6.jpg
     name: "Megan Costantino"
     title: "Undeclared"
-  - url: /team/
-    image_path: /assets/headshots/person.png
+  - url: https://www.centrecountypaws.org
+    image_path: /assets/animals/cat-7.jpg
     name: "Matt Li"
     title: "Undeclared"
-  - url: /team/
-    image_path: /assets/headshots/person.png
+  - url: https://www.centrecountypaws.org
+    image_path: /assets/animals/dog-7.jpg
     name: "Ninad Mahajan"
     title: "Undeclared"
-  - url: /team/
-    image_path: /assets/headshots/person.png
+  - url: https://www.centrecountypaws.org
+    image_path: /assets/animals/cat-8.jpg
     name: "Raiid Ahmed"
     title: "Undeclared"
-  - url: /team/
-    image_path: /assets/headshots/person.png
+  - url: https://www.centrecountypaws.org
+    image_path: /assets/animals/dog-8.jpg
     name: "Sahil Bhanderi"
     title: "Computer Science"
-  - url: /team/
-    image_path: /assets/headshots/person.png
+  - url: https://www.centrecountypaws.org
+    image_path: /assets/animals/cat-9.jpg
     name: "Sam Lazzaro"
     title: "Undeclared"
-  - url: /team/
-    image_path: /assets/headshots/person.png
+  - url: https://www.centrecountypaws.org
+    image_path: /assets/animals/dog-9.jpg
     name: "Tatiana Klett"
     title: "Undeclared"
-  - url: /team/
-    image_path: /assets/headshots/person.png
+  - url: https://www.centrecountypaws.org
+    image_path: /assets/animals/cat-10.jpg
     name: "Vincent Donghia"
     title: "Aerospace Engineering"
 ---
