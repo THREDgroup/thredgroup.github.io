@@ -1,7 +1,7 @@
 ---
 layout: pub
 type: journal
-title: Prototype for X (PFX): A holistic framework for structuring prototyping methods to support engineering design
+title: "Prototype for X (PFX): A holistic framework for structuring prototyping methods to support engineering design"
 authors: ["J. Menold", "K. Jablokow", "T. Simpson"]
 venue: Design Studies
 year: 2017
