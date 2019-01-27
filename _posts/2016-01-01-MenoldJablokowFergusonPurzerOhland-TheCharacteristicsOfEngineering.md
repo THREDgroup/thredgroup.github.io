@@ -1,7 +1,7 @@
 ---
 layout: pub
 type: journal
-title: The Characteristics of Engineering Innovativeness: A Cognitive Mapping and Review of Instruments
+title: "The Characteristics of Engineering Innovativeness: A Cognitive Mapping and Review of Instruments"
 authors: ["J. Menold", "K. Jablokow", "D. Ferguson", "S. Purzer", "M. Ohland"]
 venue: International Journal of Engineering Education
 year: 2016
