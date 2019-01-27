@@ -1,7 +1,7 @@
 ---
 layout: pub
 type: journal
-title: The prototype for X framework: exploring the effects of a structured prototyping framework on functional prototypes
+title: "The prototype for X framework: exploring the effects of a structured prototyping framework on functional prototypes"
 authors: ["J. Menold", "K. Jablokow", "T. Simpson"]
 venue: Research in Engineering Design
 year: 2018
