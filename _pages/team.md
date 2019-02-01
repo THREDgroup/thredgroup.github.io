@@ -42,7 +42,7 @@ grad_gallery:
     name: "Glen Williams"
     title: "ME PhD Student"
   - url: https://www.centrecountypaws.org
-    image_path: /assets/animals/cat-2.jpg
+    image_path: /assets/headshots/saravanan.jpg
     name: "Pratima Saravanan"
     title: "IE PhD Student"
   - url: https://www.centrecountypaws.org
