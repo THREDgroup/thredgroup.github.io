@@ -59,7 +59,7 @@ undergrad_gallery:
     image_path: /assets/animals/dog-2.jpg
     name: "Alena Schwarz"
     title: "Undeclared"    
-  - url: https://www.centrecountypaws.org
+  - url: https://www.linkedin.com/in/andrewmiberlin
     image_path: /assets/headshots/berlin.jpg
     name: "Andrew Berlin"
     title: "Mechanical Engineering"   
