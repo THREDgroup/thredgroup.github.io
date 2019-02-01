@@ -100,6 +100,10 @@ undergrad_gallery:
     name: "Ninad Mahajan"
     title: "Undeclared"
   - url: https://www.centrecountypaws.org
+    image_path: /assets/animals/bridy.jpg
+    name: "Phoebe Bridy"
+    title: "Mechanical Engineering"    
+  - url: https://www.centrecountypaws.org
     image_path: /assets/animals/cat-8.jpg
     name: "Raiid Ahmed"
     title: "Undeclared"
