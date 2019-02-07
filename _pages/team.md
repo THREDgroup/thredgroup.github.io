@@ -58,7 +58,7 @@ undergrad_gallery:
   - url: https://www.centrecountypaws.org
     image_path: /assets/animals/dog-2.jpg
     name: "Alena Schwarz"
-    title: "Undeclared"    
+    title: "Engineering Science"    
   - url: https://www.linkedin.com/in/andrewmiberlin
     image_path: /assets/headshots/berlin.jpg
     name: "Andrew Berlin"
@@ -66,7 +66,7 @@ undergrad_gallery:
   - url: https://www.centrecountypaws.org
     image_path: /assets/animals/dog-3.jpg
     name: "Chloe Pehanick"
-    title: "Undeclared"    
+    title: "Biomedical Engineering"    
   - url: https://www.centrecountypaws.org
     image_path: /assets/animals/cat-4.jpg
     name: "Christian Murphy"
@@ -86,7 +86,7 @@ undergrad_gallery:
   - url: https://www.centrecountypaws.org
     image_path: /assets/animals/cat-6.jpg
     name: "Gia Borgese"
-    title: "Undeclared"
+    title: "Mechanical Engineering"
   - url: https://www.centrecountypaws.org
     image_path: /assets/animals/dog-6.jpg
     name: "Megan Costantino"
@@ -114,7 +114,7 @@ undergrad_gallery:
   - url: https://www.centrecountypaws.org
     image_path: /assets/animals/cat-9.jpg
     name: "Sam Lazzaro"
-    title: "Undeclared"
+    title: "Mechanical Engineering"
   - url: https://www.centrecountypaws.org
     image_path: /assets/animals/dog-9.jpg
     name: "Tatiana Klett"
