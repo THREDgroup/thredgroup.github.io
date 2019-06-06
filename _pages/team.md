@@ -118,8 +118,8 @@ undergrad_gallery:
 {% include gallery id="undergrad_gallery" layout="fourth" %}
 
 # Alumni
-![Sam Lapp](https://www.linkedin.com/in/samlapp/), MS Engineering Design 2019
+[Sam Lapp](https://www.linkedin.com/in/samlapp/), MS Engineering Design 2019
 
-![Vincent Donghia](https://www.linkedin.com/in/vincent-donghia-288552144/), BS Aerospace Engineering 2019
+[Vincent Donghia](https://www.linkedin.com/in/vincent-donghia-288552144/), BS Aerospace Engineering 2019
 
-!Christian Murphy](https://www.linkedin.com/in/christian-murphy-864142119/), BS Mechanical Engineering 2019
+[Christian Murphy](https://www.linkedin.com/in/christian-murphy-864142119/), BS Mechanical Engineering 2019
