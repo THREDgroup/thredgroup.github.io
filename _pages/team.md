@@ -49,6 +49,10 @@ grad_gallery:
     image_path: /assets/headshots/nelson.jpg
     name: "Jacob Nelson"
     title: "MS Student"
+  - url: https://www.centrecountypaws.org
+    image_path: /assets/animals/cat-2.jpg
+    name: "Harshika Singh"
+    title: "Visiting PhD Student"
 
 undergrad_gallery:
   - url: https://www.centrecountypaws.org
