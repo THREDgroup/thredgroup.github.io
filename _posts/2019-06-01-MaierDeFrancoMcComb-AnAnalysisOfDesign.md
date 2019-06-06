@@ -3,7 +3,7 @@ layout: pub
 type: journal
 title: "An Analysis of Design Process and Performance in Distributed Data Science Teams"
 authors: ["T. Maier", "J. DeFranco", "C. McComb"]
-venue: Team performance Management
+venue: Team Performance Management
 year: 2019
 accepted: true
 ---

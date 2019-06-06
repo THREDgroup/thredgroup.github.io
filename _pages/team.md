@@ -46,10 +46,6 @@ grad_gallery:
     name: "Pratima Saravanan"
     title: "IE PhD Student"
   - url: https://www.centrecountypaws.org
-    image_path: /assets/headshots/lapp.jpg
-    name: "Samuel Lapp"
-    title: "MS Student"
-  - url: https://www.centrecountypaws.org
     image_path: /assets/headshots/nelson.jpg
     name: "Jacob Nelson"
     title: "MS Student"
@@ -66,11 +62,7 @@ undergrad_gallery:
   - url: https://www.centrecountypaws.org
     image_path: /assets/animals/dog-3.jpg
     name: "Chloe Pehanick"
-    title: "Biomedical Engineering"    
-  - url: https://www.centrecountypaws.org
-    image_path: /assets/animals/cat-4.jpg
-    name: "Christian Murphy"
-    title: "Mechanical Engineering"
+    title: "Biomedical Engineering"  
   - url: https://www.centrecountypaws.org
     image_path: /assets/animals/dog-4.jpg
     name: "Ellie Alberti"
@@ -78,7 +70,7 @@ undergrad_gallery:
   - url: https://www.centrecountypaws.org
     image_path: /assets/animals/cat-5.png
     name: "Em Evans"
-    title: "Undeclared"
+    title: "Mechanical Engineering"
   - url: https://www.centrecountypaws.org
     image_path: /assets/animals/dog-5.jpg
     name: "Emma Hocker"
@@ -108,10 +100,6 @@ undergrad_gallery:
     name: "Raiid Ahmed"
     title: "Undeclared"
   - url: https://www.centrecountypaws.org
-    image_path: /assets/animals/dog-8.jpg
-    name: "Sahil Bhanderi"
-    title: "Computer Science"
-  - url: https://www.centrecountypaws.org
     image_path: /assets/animals/cat-9.jpg
     name: "Sam Lazzaro"
     title: "Mechanical Engineering"
@@ -119,10 +107,6 @@ undergrad_gallery:
     image_path: /assets/animals/dog-9.jpg
     name: "Tatiana Klett"
     title: "Undeclared"
-  - url: https://www.centrecountypaws.org
-    image_path: /assets/animals/cat-10.jpg
-    name: "Vincent Donghia"
-    title: "Aerospace Engineering"
 ---
 # Directors
 {% include gallery id="director_gallery" layout="fourth" %}
@@ -134,4 +118,8 @@ undergrad_gallery:
 {% include gallery id="undergrad_gallery" layout="fourth" %}
 
 # Alumni
-None... yet.
+![Sam Lapp](https://www.linkedin.com/in/samlapp/), MS Engineering Design 2019
+
+![Vincent Donghia](https://www.linkedin.com/in/vincent-donghia-288552144/), BS Aerospace Engineering 2019
+
+!Christian Murphy](https://www.linkedin.com/in/christian-murphy-864142119/), BS Mechanical Engineering 2019
