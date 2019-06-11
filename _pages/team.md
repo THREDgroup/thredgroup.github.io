@@ -54,7 +54,7 @@ grad_gallery:
     name: "Harshika Singh"
     title: "Visiting PhD Student"
   - url: https://www.centrecountypaws.org
-    image_path: /assets/animals/cat-4.jpg
+    image_path: /assets/headshots/pranav.jpg
     name: "Pranav Khanolkar"
     title: "IE MS Student"
 
