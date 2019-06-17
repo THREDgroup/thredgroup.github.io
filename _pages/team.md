@@ -22,9 +22,25 @@ director_gallery:
 
 grad_gallery:
   - url: https://www.centrecountypaws.org
+    image_path: /assets/animals/dog-1.jpg
+    name: "Glen Williams"
+    title: "ME PhD Student"
+  - url: https://www.centrecountypaws.org
+    image_path: /assets/headshots/nolte.jpg
+    name: "Hannah Nolte"
+    title: "IE PhD Student"
+  - url: https://www.centrecountypaws.org
     image_path: /assets/headshots/puentes.jpg
     name: "Lucas Puentes"
-    title: "ME PhD Student"  
+    title: "ME PhD Student"
+  - url: https://www.centrecountypaws.org
+    image_path: /assets/headshots/alzayed.jpg
+    name: "Mohammad AlZayed"
+    title: "IE PhD Student"
+  - url: https://www.centrecountypaws.org
+    image_path: /assets/headshots/saravanan.jpg
+    name: "Pratima Saravanan"
+    title: "IE PhD Student"
   - url: https://www.centrecountypaws.org
     image_path: /assets/headshots/mahan.jpg
     name: "Tobias Mahan"
@@ -34,27 +50,15 @@ grad_gallery:
     name: "Torsten Maier"
     title: "IE PhD Student"
   - url: https://www.centrecountypaws.org
-    image_path: /assets/headshots/alzayed.jpg
-    name: "Mohammad AlZayed"
-    title: "IE PhD Student"
-  - url: https://www.centrecountypaws.org
-    image_path: /assets/animals/dog-1.jpg
-    name: "Glen Williams"
-    title: "ME PhD Student"
-  - url: https://www.centrecountypaws.org
-    image_path: /assets/headshots/saravanan.jpg
-    name: "Pratima Saravanan"
-    title: "IE PhD Student"
+    image_path: /assets/animals/cat-2.jpg
+    name: "Harshika Singh"
+    title: "Visiting PhD Student"
   - url: https://www.centrecountypaws.org
     image_path: /assets/headshots/nelson.jpg
     name: "Jacob Nelson"
     title: "ME MS Student"
   - url: https://www.centrecountypaws.org
-    image_path: /assets/animals/cat-2.jpg
-    name: "Harshika Singh"
-    title: "Visiting PhD Student"
-  - url: https://www.centrecountypaws.org
-    image_path: /assets/headshots/pranav.jpg
+    image_path: /assets/headshots/khanolkar.jpg
     name: "Pranav Khanolkar"
     title: "IE MS Student"
 
