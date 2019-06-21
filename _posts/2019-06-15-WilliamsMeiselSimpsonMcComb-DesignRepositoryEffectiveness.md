@@ -1,6 +1,6 @@
 ---
-type: pub
-layout: post
+type: journal
+layout: pub
 title: "Design Repository Effectiveness for 3D Convolutional Neural Networks: Application to Additive Manufacturing"
 authors: ["G. Williams", "N. A. Meisel", "T. W. Simpsons", "C. McComb"]
 venue: Journal of Mechanical Design
