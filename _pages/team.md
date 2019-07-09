@@ -22,7 +22,7 @@ director_gallery:
 
 grad_gallery:
   - url: https://www.centrecountypaws.org
-    image_path: /assets/animals/dog-1.jpg
+    image_path: /assets/headshots/williams.jpg
     name: "Glen Williams"
     title: "ME PhD Student"
   - url: https://www.centrecountypaws.org
