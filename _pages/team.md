@@ -42,6 +42,10 @@ grad_gallery:
     name: "Pratima Saravanan"
     title: "IE PhD Student"
   - url: https://www.centrecountypaws.org
+    image_path: /assets/headshots/krishnakumar.png
+    name: "Sandeep Krishnakumar"
+    title: "IE PhD Student"    
+  - url: https://www.centrecountypaws.org
     image_path: /assets/headshots/mahan.jpg
     name: "Tobias Mahan"
     title: "ME PhD Student"
