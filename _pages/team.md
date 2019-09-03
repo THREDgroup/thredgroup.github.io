@@ -20,6 +20,8 @@ director_gallery:
     name: "Dr. Jessica Menold"
     title: "Director"
 
+  postdoc_gallery:
+
   - url: https://nicosoria.com
     image_path: /assets/headshots/soria.jpg
     name: "Dr. Nico Soria"
@@ -90,17 +92,9 @@ undergrad_gallery:
     name: "Chloe Pehanick"
     title: "Biomedical Engineering"  
   - url: https://www.centrecountypaws.org
-    image_path: /assets/animals/dog-4.jpg
-    name: "Ellie Alberti"
-    title: "Mechanical Engineering"
-  - url: https://www.centrecountypaws.org
     image_path: /assets/animals/cat-5.png
     name: "Em Evans"
     title: "Mechanical Engineering"
-  - url: https://www.centrecountypaws.org
-    image_path: /assets/animals/dog-5.jpg
-    name: "Emma Hocker"
-    title: "Engineering Science"
   - url: https://www.centrecountypaws.org
     image_path: /assets/animals/cat-6.jpg
     name: "Gia Borgese"
@@ -108,10 +102,6 @@ undergrad_gallery:
   - url: https://www.centrecountypaws.org
     image_path: /assets/animals/dog-6.jpg
     name: "Megan Costantino"
-    title: "Undeclared"
-  - url: https://www.centrecountypaws.org
-    image_path: /assets/animals/cat-7.png
-    name: "Matt Li"
     title: "Undeclared"
   - url: https://www.centrecountypaws.org
     image_path: /assets/animals/dog-7.jpg
@@ -122,10 +112,6 @@ undergrad_gallery:
     name: "Phoebe Bridy"
     title: "Mechanical Engineering"    
   - url: https://www.centrecountypaws.org
-    image_path: /assets/animals/cat-8.jpg
-    name: "Raiid Ahmed"
-    title: "Undeclared"
-  - url: https://www.centrecountypaws.org
     image_path: /assets/animals/cat-9.jpg
     name: "Sam Lazzaro"
     title: "Mechanical Engineering"
@@ -134,8 +120,11 @@ undergrad_gallery:
     name: "Tatiana Klett"
     title: "Undeclared"
 ---
-# Leadership
+# Directors
 {% include gallery id="director_gallery" layout="fourth" %}
+
+# Directors
+{% include gallery id="postdoc_gallery" layout="fourth" %}
 
 # Graduate Researchers
 {% include gallery id="grad_gallery" layout="fourth" %}
