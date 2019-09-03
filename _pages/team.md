@@ -20,8 +20,7 @@ director_gallery:
     name: "Dr. Jessica Menold"
     title: "Director"
 
-  postdoc_gallery:
-
+postdoc_gallery:
   - url: https://nicosoria.com
     image_path: /assets/headshots/soria.jpg
     name: "Dr. Nico Soria"
