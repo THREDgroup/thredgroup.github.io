@@ -20,6 +20,16 @@ director_gallery:
     name: "Dr. Jessica Menold"
     title: "Director"
 
+  - url: https://nicosoria.com
+    image_path: /assets/headshots/soria.jpg
+    name: "Dr. Nico Soria"
+    title: "Postdoc"
+
+  - url: https://www.centrecountypaws.org
+    image_path: /assets/headshots/person.png
+    name: "Dr. Binyang Song"
+    title: "Postdoc"
+
 grad_gallery:
   - url: https://www.centrecountypaws.org
     image_path: /assets/headshots/williams.jpg
@@ -124,7 +134,7 @@ undergrad_gallery:
     name: "Tatiana Klett"
     title: "Undeclared"
 ---
-# Directors
+# Leadership
 {% include gallery id="director_gallery" layout="fourth" %}
 
 # Graduate Researchers
