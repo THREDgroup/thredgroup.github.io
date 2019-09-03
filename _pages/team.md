@@ -122,7 +122,7 @@ undergrad_gallery:
 # Directors
 {% include gallery id="director_gallery" layout="fourth" %}
 
-# Directors
+# Postdoctoral Researchers
 {% include gallery id="postdoc_gallery" layout="fourth" %}
 
 # Graduate Researchers
