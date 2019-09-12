@@ -27,7 +27,7 @@ postdoc_gallery:
     title: "Postdoc"
 
   - url: https://www.centrecountypaws.org
-    image_path: /assets/headshots/person.png
+    image_path: /assets/headshots/song.jpg
     name: "Dr. Binyang Song"
     title: "Postdoc"
 
