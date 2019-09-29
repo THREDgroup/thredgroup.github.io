@@ -76,6 +76,10 @@ grad_gallery:
     image_path: /assets/headshots/khanolkar.jpg
     name: "Pranav Khanolkar"
     title: "IE MS Student"
+  - url: https://www.centrecountypaws.org
+    image_path: /assets/headshots/ryan.jpg
+    name: "Lauren Ryan"
+    title: "ME MS Student"
 
 undergrad_gallery:
   - url: https://www.centrecountypaws.org
