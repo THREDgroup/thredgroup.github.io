@@ -46,7 +46,7 @@ grad_gallery:
     title: "ME PhD Student"
   - url: https://www.centrecountypaws.org
     image_path: /assets/headshots/alzayed.jpg
-    name: "Mohammad AlZayed"
+    name: "Mohammad AlSager AlZayed"
     title: "IE PhD Student"
   - url: https://www.centrecountypaws.org
     image_path: /assets/headshots/radwan.jpg
