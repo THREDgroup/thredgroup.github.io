@@ -28,5 +28,5 @@ friend_gallery:
     image_path: /assets/friends/open.jpg
 
 ---
-These are our collaborators, sponsors, and other people and organizations who we have the privilege of working with.
+These are our collaborators, sponsors, and other people and organizations who we have the privilege of working with. 
 {% include gallery id="friend_gallery" layout="fourth" %}
