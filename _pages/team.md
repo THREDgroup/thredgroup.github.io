@@ -49,6 +49,10 @@ grad_gallery:
     name: "Mohammad AlZayed"
     title: "IE PhD Student"
   - url: https://www.centrecountypaws.org
+    image_path: /assets/headshots/radwan.jpg
+    name: "Noriana Radwan"
+    title: "IE PhD Student"
+  - url: https://www.centrecountypaws.org
     image_path: /assets/headshots/saravanan.jpg
     name: "Pratima Saravanan"
     title: "IE PhD Student"
@@ -65,9 +69,9 @@ grad_gallery:
     name: "Torsten Maier"
     title: "IE PhD Student"
   - url: https://www.centrecountypaws.org
-    image_path: /assets/animals/cat-2.jpg
-    name: "Harshika Singh"
-    title: "Visiting PhD Student"
+    image_path: /assets/headshots/agrawal.jpg
+    name: "Akash Agrawal"
+    title: "EDSGN MS Student"
   - url: https://www.centrecountypaws.org
     image_path: /assets/headshots/nelson.jpg
     name: "Jacob Nelson"
