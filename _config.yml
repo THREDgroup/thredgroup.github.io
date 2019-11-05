@@ -288,3 +288,5 @@ defaults:
     # - label: "Instagram"
     #   icon: "fab fa-fw fa-instagram"
     #   url: "https://instagram.com/thredgroup"
+
+theme: jekyll-theme-cayman
