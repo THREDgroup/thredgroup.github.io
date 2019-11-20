@@ -84,6 +84,10 @@ grad_gallery:
     image_path: /assets/headshots/ryan.JPG
     name: "Lauren Ryan"
     title: "ME MS Student"
+  - url: https://www.centrecountypaws.org
+    image_path: /assets/headshots/spillane.jpg
+    name: "Daniel Spillane"
+    title: "EDSGN MS Student"
 
 undergrad_gallery:
   - url: https://www.centrecountypaws.org
