@@ -1,7 +1,7 @@
 ---
 layout: pub
 type: conference
-title: Pulling at the Digital Thread: Exploring the Tolerance Stack-Up in Scan to Print Processes
+title: "Pulling at the Digital Thread: Exploring the Tolerance Stack-Up in Scan to Print Processes"
 authors: ["T. Mahan", "B. Doyle", "N. Meisel", "J. Menold"]
 venue: ASME 2018 International Design Engineering Technical Conferences and Computers and Information in Engineering Conference
 year: 2018

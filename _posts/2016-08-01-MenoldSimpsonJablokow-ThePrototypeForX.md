@@ -1,7 +1,7 @@
 ---
 layout: pub
 type: conference
-title: The Prototype for X (PFX) Framework: Assessing the Impact of PFX on Desirability, Feasibility, and Viability of End Designs
+title: "The Prototype for X (PFX) Framework: Assessing the Impact of PFX on Desirability, Feasibility, and Viability of End Designs"
 authors: ["J. Menold", "T. Simpson", "K. Jablokow"]
 venue: ASME 2016 International Design Engineering Technical Conferences and Computers and Information in Engineering Conference
 year: 2016

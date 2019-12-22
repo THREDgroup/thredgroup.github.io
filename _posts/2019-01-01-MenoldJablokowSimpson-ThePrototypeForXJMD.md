@@ -1,7 +1,7 @@
 ---
 layout: pub
 type: journal
-title: The Prototype for X Framework: Assessing Impact on Self-Reported Prototyping Behavior of Student Designers
+title: "The Prototype for X Framework: Assessing Impact on Self-Reported Prototyping Behavior of Student Designers"
 authors: ["J. Menold", "K. Jablokow", "T. Simpson"]
 venue: Journal of Mechanical Design
 year: 2019
