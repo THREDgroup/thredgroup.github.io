@@ -13,8 +13,9 @@ for file in directory:
     if file.endswith(".md"):
         print(file)
         with open(here + "/" + file) as f:
-            publications.append(frontmatter.load(f).metadata)
-            names.extend(publications[-1]['authors'])
+            fm = frontmatter.load(f).metadata
+            publications.append(fm)
+            names.extend(fm['authors'])
 
 
 # build files for export
@@ -25,5 +26,5 @@ for name in names:
         if name in file['authors']:
             temp.append(file)
 
-    with open("/Users/uum209/GitHub/thredgroup.github.io/assets/"+name.split(" ")[-1]+'.json', 'w') as outfile:
+    with open("/Users/uum209/GitHub/thredgroup.github.io/assets/"+name.split(" ")[-1].lower()+'.json', 'w') as outfile:
         json.dump(temp, outfile)
