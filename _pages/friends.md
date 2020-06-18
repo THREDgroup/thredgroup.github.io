@@ -18,6 +18,16 @@ friend_gallery:
     image_path: /assets/friends/nvidia.jpg
   - url: "https://www.jnj.com"
     image_path: /assets/friends/jnj.jpg
+
+  - url: "https://www.construction-institute.org"
+    image_path: /assets/friends/cii.jpg
+  - url: "https://www.manufacturingpa.org"
+    image_path: /assets/friends/padoced.jpg
+  - url: "https://www.rexnord.com/home"
+    image_path: /assets/friends/rexnord.jpg
+  - url: "https://www.icds.psu.edu"
+    image_path: /assets/friends/icds.jpg
+
   - url: "https://www.engr.psu.edu/britelab/"
     image_path: /assets/friends/britelab.jpg
   - url: "https://www.engr.psu.edu/datalab/"
@@ -28,5 +38,5 @@ friend_gallery:
     image_path: /assets/friends/open.jpg
 
 ---
-These are our collaborators, sponsors, and other people and organizations who we have the privilege of working with. 
+These are our collaborators, sponsors, and other people and organizations who we have the privilege of working with.
 {% include gallery id="friend_gallery" layout="fourth" %}
