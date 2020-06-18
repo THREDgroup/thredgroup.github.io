@@ -68,6 +68,10 @@ grad_gallery:
     image_path: /assets/animals/cat-1.jpg
     name: "Torsten Maier"
     title: "IE PhD Student"
+  - url: https://www.cmu.edu/me/idig/People.html
+    image_path: /assets/headshots/raina.jpg
+    name: "Ayush Raina"
+    title: "PhD Student @CMU"
   - url: https://www.centrecountypaws.org
     image_path: /assets/headshots/agrawal.jpg
     name: "Akash Agrawal"
