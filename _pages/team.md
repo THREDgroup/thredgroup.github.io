@@ -72,6 +72,10 @@ grad_gallery:
     image_path: /assets/headshots/raina.jpg
     name: "Ayush Raina"
     title: "PhD Student @ CMU"
+  - url: https://www.cmu.edu/me/idig/
+    image_path: /assets/animals/dog-1.jpg
+    name: "Sean Rismiller"
+    title: "PhD Student @ CMU"
   - url: https://www.centrecountypaws.org
     image_path: /assets/headshots/agrawal.jpg
     name: "Akash Agrawal"
