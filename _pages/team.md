@@ -119,6 +119,10 @@ undergrad_gallery:
     name: "Gia Borgese"
     title: "Mechanical Engineering"
   - url: https://www.centrecountypaws.org
+    image_path: /assets/headshots/friday.jpg
+    name: "Leilani Friday"
+    title: "Undeclared"   
+  - url: https://www.centrecountypaws.org
     image_path: /assets/animals/dog-6.jpg
     name: "Megan Costantino"
     title: "Undeclared"
