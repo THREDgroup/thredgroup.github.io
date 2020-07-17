@@ -139,6 +139,10 @@ undergrad_gallery:
     name: "Sam Lazzaro"
     title: "Mechanical Engineering"
   - url: https://www.centrecountypaws.org
+    image_path: /assets/headshots/won.jpg
+    name: "Sung Jun Won"
+    title: "Mechanical Engineering"   
+  - url: https://www.centrecountypaws.org
     image_path: /assets/animals/dog-9.jpg
     name: "Tatiana Klett"
     title: "Undeclared"
