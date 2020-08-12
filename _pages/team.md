@@ -85,7 +85,7 @@ grad_gallery:
     name: "Daniel Spillane"
     title: "EDSGN MS Student"
   - url: https://www.centrecountypaws.org
-    image_path: /assets/headshots/cat-2.jpg
+    image_path: /assets/headshots/azhar.jpg
     name: "Fariha Azhar"
     title: "EDSGN MS Student"
   - url: https://www.linkedin.com/in/siddharth-jhawar/
@@ -107,7 +107,7 @@ undergrad_gallery:
     name: "Em Evans"
     title: "Mechanical Engineering"
   - url: https://www.centrecountypaws.org
-    image_path: /assets/animals/cat-3.png
+    image_path: /assets/animals/meinzer.jpg
     name: "Emmett Meinzer"
     title: "Aerospace Engineering"
   - url: https://www.centrecountypaws.org
