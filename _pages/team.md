@@ -45,10 +45,6 @@ grad_gallery:
     name: "Lucas Puentes"
     title: "ME PhD Student"
   - url: https://www.centrecountypaws.org
-    image_path: /assets/headshots/alzayed.jpg
-    name: "Mohammad AlZayed"
-    title: "IE PhD Student"
-  - url: https://www.centrecountypaws.org
     image_path: /assets/headshots/radwan.jpg
     name: "Noriana Radwan"
     title: "IE PhD Student"
@@ -59,7 +55,11 @@ grad_gallery:
   - url: https://www.centrecountypaws.org
     image_path: /assets/headshots/krishnakumar.jpg
     name: "Sandeep Krishnakumar"
-    title: "IE PhD Student"    
+    title: "IE PhD Student"   
+  - url: https://www.centrecountypaws.org
+    image_path: /assets/headshots/hicks.jpg
+    name: "Sierra Hicks"
+    title: "ME PhD Student"    
   - url: https://www.centrecountypaws.org
     image_path: /assets/headshots/mahan.jpg
     name: "Tobias Mahan"
@@ -81,20 +81,16 @@ grad_gallery:
     name: "Akash Agrawal"
     title: "EDSGN MS Student"
   - url: https://www.centrecountypaws.org
-    image_path: /assets/headshots/nelson.jpg
-    name: "Jacob Nelson"
-    title: "ME MS Student"
-  - url: https://www.centrecountypaws.org
-    image_path: /assets/headshots/khanolkar.jpg
-    name: "Pranav Khanolkar"
-    title: "IE MS Student"
-  - url: https://www.centrecountypaws.org
-    image_path: /assets/headshots/ryan.JPG
-    name: "Lauren Ryan"
-    title: "ME MS Student"
-  - url: https://www.centrecountypaws.org
     image_path: /assets/headshots/spillane.jpg
     name: "Daniel Spillane"
+    title: "EDSGN MS Student"
+  - url: https://www.centrecountypaws.org
+    image_path: /assets/headshots/cat-2.jpg
+    name: "Fariha Azhar"
+    title: "EDSGN MS Student"
+  - url: https://www.centrecountypaws.org
+    image_path: /assets/headshots/jhawar.jpg
+    name: "Siddharth Jhawar"
     title: "EDSGN MS Student"
 
 undergrad_gallery:
@@ -102,10 +98,6 @@ undergrad_gallery:
     image_path: /assets/animals/dog-2.jpg
     name: "Alena Schwarz"
     title: "Engineering Science"    
-  - url: https://www.linkedin.com/in/andrewmiberlin
-    image_path: /assets/headshots/berlin.jpg
-    name: "Andrew Berlin"
-    title: "Mechanical Engineering"   
   - url: https://www.centrecountypaws.org
     image_path: /assets/animals/dog-3.jpg
     name: "Chloe Pehanick"
@@ -114,6 +106,10 @@ undergrad_gallery:
     image_path: /assets/animals/cat-5.png
     name: "Em Evans"
     title: "Mechanical Engineering"
+  - url: https://www.centrecountypaws.org
+    image_path: /assets/animals/cat-3.png
+    name: "Emmett Meinzer"
+    title: "Aerospace Engineering"
   - url: https://www.centrecountypaws.org
     image_path: /assets/animals/cat-6.jpg
     name: "Gia Borgese"
@@ -160,6 +156,16 @@ undergrad_gallery:
 {% include gallery id="undergrad_gallery" layout="fourth" %}
 
 # Alumni
+[Mohammad AlZayed](https://www.linkedin.com/in/mohammad-alsager-alzayed-32991168/), PhD Industrial Engineering 2020
+
+[Jacob Nelson](https://www.linkedin.com/in/nelsonjt/), MS Mechanical Engineering
+
+[Pranav Khanolkar](https://www.linkedin.com/in/pranav-milind-khanolkar-a71a89128/), MS Industrial Engineering 2020
+
+[Lauren Ryan](https://www.linkedin.com/in/lryan9/), MS Mechanical Engineering 2020
+
+[Andrew Berlin](https://www.linkedin.com/in/andrewmiberlin/), BS Mechanical Engineeering 2020
+
 [Sam Lapp](https://www.linkedin.com/in/samlapp/), MS Engineering Design 2019
 
 [Vincent Donghia](https://www.linkedin.com/in/vincent-donghia-288552144/), BS Aerospace Engineering 2019
