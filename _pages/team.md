@@ -107,7 +107,7 @@ undergrad_gallery:
     name: "Em Evans"
     title: "Mechanical Engineering"
   - url: https://www.centrecountypaws.org
-    image_path: /assets/animals/meinzer.jpg
+    image_path: /assets/headshots/meinzer.jpg
     name: "Emmett Meinzer"
     title: "Aerospace Engineering"
   - url: https://www.centrecountypaws.org
