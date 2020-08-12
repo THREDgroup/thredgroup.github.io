@@ -111,25 +111,13 @@ undergrad_gallery:
     name: "Emmett Meinzer"
     title: "Aerospace Engineering"
   - url: https://www.centrecountypaws.org
-    image_path: /assets/animals/cat-6.jpg
-    name: "Gia Borgese"
-    title: "Mechanical Engineering"
-  - url: https://www.centrecountypaws.org
     image_path: /assets/headshots/friday.jpg
     name: "Leilani Friday"
     title: "Undeclared"   
   - url: https://www.centrecountypaws.org
-    image_path: /assets/animals/dog-6.jpg
-    name: "Megan Costantino"
-    title: "Undeclared"
-  - url: https://www.centrecountypaws.org
     image_path: /assets/animals/dog-7.jpg
     name: "Ninad Mahajan"
-    title: "Undeclared"
-  - url: https://www.centrecountypaws.org
-    image_path: /assets/animals/bridy.jpg
-    name: "Phoebe Bridy"
-    title: "Mechanical Engineering"    
+    title: "Undeclared"    
   - url: https://www.centrecountypaws.org
     image_path: /assets/animals/cat-9.jpg
     name: "Sam Lazzaro"
@@ -138,10 +126,6 @@ undergrad_gallery:
     image_path: /assets/headshots/won.jpg
     name: "Sung Jun Won"
     title: "Mechanical Engineering"   
-  - url: https://www.centrecountypaws.org
-    image_path: /assets/animals/dog-9.jpg
-    name: "Tatiana Klett"
-    title: "Undeclared"
 ---
 # Directors
 {% include gallery id="director_gallery" layout="fourth" %}
