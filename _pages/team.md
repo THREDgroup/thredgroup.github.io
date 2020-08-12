@@ -88,7 +88,7 @@ grad_gallery:
     image_path: /assets/headshots/cat-2.jpg
     name: "Fariha Azhar"
     title: "EDSGN MS Student"
-  - url: https://www.centrecountypaws.org
+  - url: https://www.linkedin.com/in/siddharth-jhawar/
     image_path: /assets/headshots/jhawar.jpg
     name: "Siddharth Jhawar"
     title: "EDSGN MS Student"
