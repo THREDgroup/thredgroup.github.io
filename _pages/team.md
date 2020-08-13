@@ -115,6 +115,10 @@ undergrad_gallery:
     name: "Leilani Friday"
     title: "Undeclared"   
   - url: https://www.centrecountypaws.org
+    image_path: /assets/headshots/stover.jpg
+    name: "Micaela Stover"
+    title: "Mechanical Engineering"   
+  - url: https://www.centrecountypaws.org
     image_path: /assets/animals/dog-7.jpg
     name: "Ninad Mahajan"
     title: "Undeclared"    
@@ -127,6 +131,7 @@ undergrad_gallery:
     name: "Sung Jun Won"
     title: "Mechanical Engineering"   
 ---
+
 # Directors
 {% include gallery id="director_gallery" layout="fourth" %}
 
