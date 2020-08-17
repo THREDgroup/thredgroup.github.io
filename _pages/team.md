@@ -99,6 +99,10 @@ undergrad_gallery:
     name: "Alena Schwarz"
     title: "Engineering Science"    
   - url: https://www.centrecountypaws.org
+    image_path: /assets/headshots/barnes.jpeg
+    name: "Casey Barnes"
+    title: "Biomedical Engineering"  
+  - url: https://www.centrecountypaws.org
     image_path: /assets/animals/dog-3.jpg
     name: "Chloe Pehanick"
     title: "Biomedical Engineering"  
