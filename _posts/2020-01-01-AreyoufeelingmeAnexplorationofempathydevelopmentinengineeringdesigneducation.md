@@ -1,0 +1,10 @@
+---
+layout: pub
+type: journal
+title: "Are you feeling me? An exploration of empathy development in engineering design education"
+authors: ["M. Alzayed", "C. McComb", "J. Menold", "J. Huff", "S. Miller"]
+venue: Journal of Mechanical Design
+year: 2020
+accepted: true
+---
+Having empathy in the design process can help engineers relate to the end user by identifying what and why certain experiences are meaningful. While there have been efforts to identify the factors that impact empathic tendencies in engineering, there has been limited evidence on how a students' trait empathy or empathic self-efficacy develops over a design project or what factors impact this development. The current study was developed to explore the development of students' trait empathy and empathic self-efficacy development and identify the underlying impact of the design project's context and course instructor through a study with 103 engineering students. Students' trait empathy and empathic self-efficacy were measured across each of the four design stages (problem formulation, concept generation, concept selection, and final conceptual design) during an 8-week project. The results highlight that students' trait empathy and empathic self-efficacy did not increase across design stages and the context of the design problem did not impact students' empathy development. Meanwhile, the course instructor negatively impacted students' empathic self-efficacy in one of the three course sections studied, and two of the three interviewed course instructors reduced the role of empathy in the concept generation and selection stages of the design process. These insights call for future research that could empirically assess the impact of trait empathy and empathic self-efficacy in driving design outcomes in the later design stages, which could increase engineering educators' awareness of the role of empathy in the engineering classroom.
