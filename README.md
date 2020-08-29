@@ -1,2 +1,2 @@
 # This thing
-Its a website.
+Its a website. It uses Jekyll
