@@ -12,9 +12,11 @@
 
 <div class="{{ include.type | default: "list" }}__item">
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+    {% if post.teaser %}
     <div class="archive__item-teaser">
       <img src="{{ post.teaser }}" alt="">
     </div>
+    {% endif %}
     <h2 class="archive__item-title" itemprop="headline">
         <a href="{{ post.link }}" rel="permalink">{{ post.title }}</a>
     </h2>
