@@ -99,6 +99,10 @@ undergrad_gallery:
     name: "Alena Schwarz"
     title: "Engineering Science"    
   - url: https://www.centrecountypaws.org
+    image_path: /assets/headshots/gregg.jpg
+    name: "Amanda Gregg"
+    title: "Materials Science and Engineering"   
+  - url: https://www.centrecountypaws.org
     image_path: /assets/headshots/barnes.jpeg
     name: "Casey Barnes"
     title: "Biomedical Engineering"  
