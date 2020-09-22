@@ -101,7 +101,7 @@ undergrad_gallery:
   - url: https://www.centrecountypaws.org
     image_path: /assets/headshots/gregg.jpg
     name: "Amanda Gregg"
-    title: "Materials Science and Engineering"   
+    title: "Materials Science"   
   - url: https://www.centrecountypaws.org
     image_path: /assets/headshots/barnes.jpeg
     name: "Casey Barnes"
