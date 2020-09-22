@@ -1,0 +1,26 @@
+{% if post.header.teaser %}
+  {% capture teaser %}{{ post.header.teaser }}{% endcapture %}
+{% else %}
+  {% assign teaser = site.teaser %}
+{% endif %}
+
+{% if post.id %}
+  {% assign title = post.title | markdownify | remove: "<p>" | remove: "</p>" %}
+{% else %}
+  {% assign title = post.title %}
+{% endif %}
+
+<div class="{{ include.type | default: "list" }}__item">
+  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+    {% if post.teaser %}
+    <div class="archive__item-teaser">
+      <img src="{{ post.teaser }}" alt="">
+    </div>
+    {% endif %}
+    <h2 class="archive__item-title" itemprop="headline">
+        <a href="{{ post.link }}" rel="permalink">{{ post.title }}</a>
+    </h2>
+    {% if post.excerpt %}<p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify | strip_html | truncate: 160 }}</p>{% endif %}
+  </article>
+<hr/>
+</div>
