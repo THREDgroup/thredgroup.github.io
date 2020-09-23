@@ -98,7 +98,7 @@ undergrad_gallery:
     image_path: /assets/animals/dog-2.jpg
     name: "Alena Schwarz"
     title: "Engineering Science"    
-  - url: https://www.centrecountypaws.org
+  - url: https://www.linkedin.com/in/amanda-gregg-9a3921191/
     image_path: /assets/headshots/gregg.jpg
     name: "Amanda Gregg"
     title: "Materials Science"   
