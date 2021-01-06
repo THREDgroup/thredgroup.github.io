@@ -21,14 +21,18 @@ director_gallery:
     title: "Director"
 
 postdoc_gallery:
-  - url: https://nicosoria.com
-    image_path: /assets/headshots/soria.jpg
-    name: "Dr. Nico Soria"
-    title: "Postdoc"
 
   - url: https://www.centrecountypaws.org
     image_path: /assets/headshots/song.jpg
     name: "Dr. Binyang Song"
+    title: "Postdoc"
+  - url: https://www.centrecountypaws.org
+    image_path: /assets/headshots/agyemang.jpg
+    name: "Dr. Malena Agyemang"
+    title: "Postdoc"
+  - url: https://nicosoria.com
+    image_path: /assets/headshots/soria.jpg
+    name: "Dr. Nico Soria"
     title: "Postdoc"
 
 grad_gallery:
